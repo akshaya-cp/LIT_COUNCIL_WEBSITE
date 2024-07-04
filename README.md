@@ -7,15 +7,7 @@ A brief description of the project, its purpose, and key information.
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Customization](#customization)
-  - [Changing the Logo](#changing-the-logo)
-  - [Creating Team Components](#creating-team-components)
-  - [Content Management](#content-management)
-- [Assets](#assets)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
 
 ## Introduction
 
